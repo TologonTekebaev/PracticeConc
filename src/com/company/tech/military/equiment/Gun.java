@@ -30,5 +30,7 @@ public class Gun extends MilitaryEquiment{
     public void setVid(String vid) {
         this.vid = vid;
     }
+    
+    //missed toString()
 
 }
